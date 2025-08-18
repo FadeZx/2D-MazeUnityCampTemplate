@@ -16,4 +16,5 @@ public class Player : MonoBehaviour
     {
         MyRigidBody.linearVelocity = Vector2.right;
     }
+
 }

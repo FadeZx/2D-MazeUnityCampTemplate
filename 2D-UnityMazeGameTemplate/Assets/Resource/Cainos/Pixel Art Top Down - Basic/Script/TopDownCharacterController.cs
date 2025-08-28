@@ -21,7 +21,7 @@ namespace Cainos.PixelArtTopDown_Basic
 
         private void OnCollisionEnter2D(Collision2D collision)
         {
-            if (collision.gameObject.tag == "Coin") {
+            if (collision.gameObject.tag == "Sandbox") {
                 Destroy(collision.gameObject);
                 Score++;
                 UI_Manager.Instance._SetText("Score: "+Score + "/6");

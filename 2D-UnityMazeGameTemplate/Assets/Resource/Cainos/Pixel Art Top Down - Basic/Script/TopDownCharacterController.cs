@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Cainos.PixelArtTopDown_Basic
 {
@@ -10,9 +11,25 @@ namespace Cainos.PixelArtTopDown_Basic
 
         private Animator animator;
 
+        int Score = 0;
+
         private void Start()
         {
             animator = GetComponent<Animator>();
+            UI_Manager.Instance._SetText("Score: " + Score + "/6");
+        }
+
+        private void OnCollisionEnter2D(Collision2D collision)
+        {
+            if (collision.gameObject.tag == "Coin") {
+                Destroy(collision.gameObject);
+                Score++;
+                UI_Manager.Instance._SetText("Score: "+Score + "/6");
+
+                if (Score >= 6) {
+                    SceneManager.LoadScene("Sandbox_YOUWIN");
+                }
+            }
         }
 
 

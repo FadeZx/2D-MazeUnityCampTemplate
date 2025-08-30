@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: a6f9d0bd83acbc143a36b703f9c607d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1346336769856168266
+    second: kaylyn-among-us-functional-sprites_0
+  - first:
+      213: -3489507441651256537
+    second: kaylyn-among-us-functional-sprites_1
+  - first:
+      213: 4014328594602380921
+    second: kaylyn-among-us-functional-sprites_2
+  - first:
+      213: 1799392427376922198
+    second: kaylyn-among-us-functional-sprites_3
+  - first:
+      213: 50827865907246017
+    second: kaylyn-among-us-functional-sprites_4
+  - first:
+      213: 274354541353646117
+    second: kaylyn-among-us-functional-sprites_5
+  - first:
+      213: 1135726286947275591
+    second: kaylyn-among-us-functional-sprites_6
+  - first:
+      213: -7450660529753966354
+    second: kaylyn-among-us-functional-sprites_7
+  - first:
+      213: 5830655997882052172
+    second: kaylyn-among-us-functional-sprites_8
+  - first:
+      213: 1876856441172717281
+    second: kaylyn-among-us-functional-sprites_9
+  - first:
+      213: -5933754219795109276
+    second: kaylyn-among-us-functional-sprites_10
+  - first:
+      213: -1648362659952899753
+    second: kaylyn-among-us-functional-sprites_11
+  - first:
+      213: 4400870908129965373
+    second: kaylyn-among-us-functional-sprites_12
+  - first:
+      213: 7739148979344725039
+    second: kaylyn-among-us-functional-sprites_13
+  - first:
+      213: -5611426176999233904
+    second: kaylyn-among-us-functional-sprites_14
+  - first:
+      213: 9177104109097165321
+    second: kaylyn-among-us-functional-sprites_15
+  - first:
+      213: -5192808316267022830
+    second: kaylyn-among-us-functional-sprites_16
+  - first:
+      213: 6933638728409492713
+    second: kaylyn-among-us-functional-sprites_17
+  - first:
+      213: 2664203600055357414
+    second: kaylyn-among-us-functional-sprites_18
+  - first:
+      213: 2245815884567557384
+    second: kaylyn-among-us-functional-sprites_19
+  - first:
+      213: 1373634345299237378
+    second: kaylyn-among-us-functional-sprites_20
+  - first:
+      213: -658408997406232396
+    second: kaylyn-among-us-functional-sprites_21
+  - first:
+      213: -3739235670795476068
+    second: kaylyn-among-us-functional-sprites_22
+  - first:
+      213: 7076888012717882143
+    second: kaylyn-among-us-functional-sprites_23
+  - first:
+      213: -818089843748345227
+    second: kaylyn-among-us-functional-sprites_24
+  - first:
+      213: 8883722113152836816
+    second: kaylyn-among-us-functional-sprites_25
+  - first:
+      213: -7742870773925301794
+    second: kaylyn-among-us-functional-sprites_26
+  - first:
+      213: 3966516920513682890
+    second: kaylyn-among-us-functional-sprites_27
+  - first:
+      213: 3520451838540952105
+    second: kaylyn-among-us-functional-sprites_28
+  - first:
+      213: 3184450120507956893
+    second: kaylyn-among-us-functional-sprites_29
+  - first:
+      213: -8026953610725087081
+    second: kaylyn-among-us-functional-sprites_30
+  - first:
+      213: 7520033467041095806
+    second: kaylyn-among-us-functional-sprites_31
+  - first:
+      213: 7550190186958063276
+    second: kaylyn-among-us-functional-sprites_32
+  - first:
+      213: 4615165359020242741
+    second: kaylyn-among-us-functional-sprites_33
+  - first:
+      213: -7903235630378009113
+    second: kaylyn-among-us-functional-sprites_34
+  - first:
+      213: 8959263191556281009
+    second: kaylyn-among-us-functional-sprites_35
+  - first:
+      213: 1862454719207085718
+    second: kaylyn-among-us-functional-sprites_36
+  - first:
+      213: -9163100381405355206
+    second: kaylyn-among-us-functional-sprites_37
+  - first:
+      213: 7182459978752447768
+    second: kaylyn-among-us-functional-sprites_38
+  - first:
+      213: 6199183082222859610
+    second: kaylyn-among-us-functional-sprites_39
+  - first:
+      213: 5816358690287807470
+    second: kaylyn-among-us-functional-sprites_40
+  - first:
+      213: 6439855122203862103
+    second: kaylyn-among-us-functional-sprites_41
+  - first:
+      213: 988244978048505594
+    second: kaylyn-among-us-functional-sprites_42
+  - first:
+      213: -5356811348218251683
+    second: kaylyn-among-us-functional-sprites_43
+  - first:
+      213: 4081340235684799009
+    second: kaylyn-among-us-functional-sprites_44
+  - first:
+      213: 8154615210895352903
+    second: kaylyn-among-us-functional-sprites_45
+  - first:
+      213: -6988379207205621874
+    second: kaylyn-among-us-functional-sprites_46
+  - first:
+      213: 1489937542523278858
+    second: kaylyn-among-us-functional-sprites_47
+  - first:
+      213: 2395610589354243405
+    second: kaylyn-among-us-functional-sprites_48
+  - first:
+      213: 7242316774203990715
+    second: kaylyn-among-us-functional-sprites_49
+  - first:
+      213: -3119031602315399823
+    second: kaylyn-among-us-functional-sprites_50
+  - first:
+      213: -2650148836475700650
+    second: kaylyn-among-us-functional-sprites_51
+  - first:
+      213: -8469737070551542086
+    second: kaylyn-among-us-functional-sprites_52
+  - first:
+      213: 6908799895986588832
+    second: kaylyn-among-us-functional-sprites_53
+  - first:
+      213: 529388470980706361
+    second: kaylyn-among-us-functional-sprites_54
+  - first:
+      213: -2502159206221910616
+    second: kaylyn-among-us-functional-sprites_55
+  - first:
+      213: -6053981347428723692
+    second: kaylyn-among-us-functional-sprites_56
+  - first:
+      213: 7086109394856311430
+    second: kaylyn-among-us-functional-sprites_57
+  - first:
+      213: 4453996285209373616
+    second: kaylyn-among-us-functional-sprites_58
+  - first:
+      213: -3676903758232703279
+    second: kaylyn-among-us-functional-sprites_59
+  - first:
+      213: -7026946267635194603
+    second: kaylyn-among-us-functional-sprites_60
+  - first:
+      213: 657138383734402434
+    second: kaylyn-among-us-functional-sprites_61
+  - first:
+      213: 5056872361793852115
+    second: kaylyn-among-us-functional-sprites_62
+  - first:
+      213: 8027385578046097752
+    second: kaylyn-among-us-functional-sprites_63
+  - first:
+      213: -6108883114470708702
+    second: kaylyn-among-us-functional-sprites_64
+  - first:
+      213: 3017165946201145791
+    second: kaylyn-among-us-functional-sprites_65
+  - first:
+      213: -8291506657573470170
+    second: kaylyn-among-us-functional-sprites_66
+  - first:
+      213: 1253822164823784924
+    second: kaylyn-among-us-functional-sprites_67
+  - first:
+      213: -3632071677846469130
+    second: kaylyn-among-us-functional-sprites_68
+  - first:
+      213: -5807236144942074581
+    second: kaylyn-among-us-functional-sprites_69
+  - first:
+      213: 5012068952643278201
+    second: kaylyn-among-us-functional-sprites_70
+  - first:
+      213: -2061700058155403609
+    second: kaylyn-among-us-functional-sprites_71
+  - first:
+      213: 8849966218299588895
+    second: kaylyn-among-us-functional-sprites_72
+  - first:
+      213: -54599178751994019
+    second: kaylyn-among-us-functional-sprites_73
+  - first:
+      213: 6280907126544231574
+    second: kaylyn-among-us-functional-sprites_74
+  - first:
+      213: -1987284552496700131
+    second: kaylyn-among-us-functional-sprites_75
+  - first:
+      213: -2156582579481919396
+    second: kaylyn-among-us-functional-sprites_76
+  - first:
+      213: 2388152360816374013
+    second: kaylyn-among-us-functional-sprites_77
+  - first:
+      213: -8314173168378040511
+    second: kaylyn-among-us-functional-sprites_78
+  - first:
+      213: 168792167189473058
+    second: kaylyn-among-us-functional-sprites_79
+  - first:
+      213: -7037054818576337510
+    second: kaylyn-among-us-functional-sprites_80
+  - first:
+      213: -3143050269622281492
+    second: kaylyn-among-us-functional-sprites_81
+  - first:
+      213: 776819769345653535
+    second: kaylyn-among-us-functional-sprites_82
+  - first:
+      213: 3465194144019844501
+    second: kaylyn-among-us-functional-sprites_83
+  - first:
+      213: 7629811498028285352
+    second: kaylyn-among-us-functional-sprites_84
+  - first:
+      213: -1896344250145591241
+    second: kaylyn-among-us-functional-sprites_85
+  - first:
+      213: -4359186742645702452
+    second: kaylyn-among-us-functional-sprites_86
+  - first:
+      213: 6532996260886713191
+    second: kaylyn-among-us-functional-sprites_87
+  - first:
+      213: 3907797981473503382
+    second: kaylyn-among-us-functional-sprites_88
+  - first:
+      213: -7628818563970683274
+    second: kaylyn-among-us-functional-sprites_89
+  - first:
+      213: -2846046478352427515
+    second: kaylyn-among-us-functional-sprites_90
+  - first:
+      213: -1716303054987538099
+    second: kaylyn-among-us-functional-sprites_91
+  - first:
+      213: 9189944447970415301
+    second: kaylyn-among-us-functional-sprites_92
+  - first:
+      213: 6283479056635322705
+    second: kaylyn-among-us-functional-sprites_93
+  - first:
+      213: -9177329760758253847
+    second: kaylyn-among-us-functional-sprites_94
+  - first:
+      213: 567350359850856683
+    second: kaylyn-among-us-functional-sprites_95
+  - first:
+      213: -325814600016731187
+    second: kaylyn-among-us-functional-sprites_96
+  - first:
+      213: -4543081523674709052
+    second: kaylyn-among-us-functional-sprites_97
+  - first:
+      213: -2958589022228981825
+    second: kaylyn-among-us-functional-sprites_98
+  - first:
+      213: 8072321794002182335
+    second: kaylyn-among-us-functional-sprites_99
+  - first:
+      213: -4401933068246248035
+    second: kaylyn-among-us-functional-sprites_100
+  - first:
+      213: 3105033889046090337
+    second: kaylyn-among-us-functional-sprites_101
+  - first:
+      213: -6703528764425744816
+    second: kaylyn-among-us-functional-sprites_102
+  - first:
+      213: -2287065193004852550
+    second: kaylyn-among-us-functional-sprites_103
+  - first:
+      213: 6628534354344845683
+    second: kaylyn-among-us-functional-sprites_104
+  - first:
+      213: 4419376496713062335
+    second: kaylyn-among-us-functional-sprites_105
+  - first:
+      213: 7603896477599648364
+    second: kaylyn-among-us-functional-sprites_106
+  - first:
+      213: 3122595762451001380
+    second: kaylyn-among-us-functional-sprites_107
+  - first:
+      213: 8778228133126601050
+    second: kaylyn-among-us-functional-sprites_108
+  - first:
+      213: 2409112998499129098
+    second: kaylyn-among-us-functional-sprites_109
+  - first:
+      213: -4332302047516826819
+    second: kaylyn-among-us-functional-sprites_110
+  - first:
+      213: 4970802366309709389
+    second: kaylyn-among-us-functional-sprites_111
+  - first:
+      213: -4131669153788406226
+    second: kaylyn-among-us-functional-sprites_112
+  - first:
+      213: 1323559275445504479
+    second: kaylyn-among-us-functional-sprites_113
+  - first:
+      213: 662173867311103699
+    second: kaylyn-among-us-functional-sprites_114
+  - first:
+      213: 649728977024351735
+    second: kaylyn-among-us-functional-sprites_115
+  - first:
+      213: -5853515738918697922
+    second: kaylyn-among-us-functional-sprites_116
+  - first:
+      213: 2705441683955458387
+    second: kaylyn-among-us-functional-sprites_117
+  - first:
+      213: -1283338899850343522
+    second: kaylyn-among-us-functional-sprites_118
+  - first:
+      213: -2867741534757214218
+    second: kaylyn-among-us-functional-sprites_119
+  - first:
+      213: 4679653307969955929
+    second: kaylyn-among-us-functional-sprites_120
+  - first:
+      213: -4703279006411396274
+    second: kaylyn-among-us-functional-sprites_121
+  - first:
+      213: 1222571086586122415
+    second: kaylyn-among-us-functional-sprites_122
+  - first:
+      213: -6877109762860297938
+    second: kaylyn-among-us-functional-sprites_123
+  - first:
+      213: 8763172327653298817
+    second: kaylyn-among-us-functional-sprites_124
+  - first:
+      213: -7038807511413559616
+    second: kaylyn-among-us-functional-sprites_125
+  - first:
+      213: 1867470805136815586
+    second: kaylyn-among-us-functional-sprites_126
+  - first:
+      213: -5261812061524257166
+    second: kaylyn-among-us-functional-sprites_127
+  - first:
+      213: 6180334051205166619
+    second: kaylyn-among-us-functional-sprites_128
+  - first:
+      213: -5993906924401831463
+    second: kaylyn-among-us-functional-sprites_129
+  - first:
+      213: -742249131712936617
+    second: kaylyn-among-us-functional-sprites_130
+  - first:
+      213: 97112377997609597
+    second: kaylyn-among-us-functional-sprites_131
+  - first:
+      213: -8382133341259511028
+    second: kaylyn-among-us-functional-sprites_132
+  - first:
+      213: -7464074500130048711
+    second: kaylyn-among-us-functional-sprites_133
+  - first:
+      213: 6829011634685912445
+    second: kaylyn-among-us-functional-sprites_134
+  - first:
+      213: -1654481191641992586
+    second: kaylyn-among-us-functional-sprites_135
+  - first:
+      213: -8380323368410298037
+    second: kaylyn-among-us-functional-sprites_136
+  - first:
+      213: -6520022640597357162
+    second: kaylyn-among-us-functional-sprites_137
+  - first:
+      213: -5875411080066129234
+    second: kaylyn-among-us-functional-sprites_138
+  - first:
+      213: -1160759947167747503
+    second: kaylyn-among-us-functional-sprites_139
+  - first:
+      213: -7031365636652309523
+    second: kaylyn-among-us-functional-sprites_140
+  - first:
+      213: 3511801731664057911
+    second: kaylyn-among-us-functional-sprites_141
+  - first:
+      213: -2254114995680333084
+    second: kaylyn-among-us-functional-sprites_142
+  - first:
+      213: -7459451120973189570
+    second: kaylyn-among-us-functional-sprites_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1775
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1dac47d9d05de0800000000000000
+      internalID: -1346336769856168266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1775
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7237b435877c29fc0800000000000000
+      internalID: -3489507441651256537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1775
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec7f48692c5b730800000000000000
+      internalID: 4014328594602380921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1775
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e445d01e9b8f810800000000000000
+      internalID: 1799392427376922198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1775
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3b71cbca394b000800000000000000
+      internalID: 50827865907246017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1775
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52836e37004bec300800000000000000
+      internalID: 274354541353646117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1775
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743d0976a09e2cf00800000000000000
+      internalID: 1135726286947275591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1775
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8bdf539bfe99890800000000000000
+      internalID: -7450660529753966354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1775
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ea249ecb6aae050800000000000000
+      internalID: 5830655997882052172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1775
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eee08e3dfeeb0a10800000000000000
+      internalID: 1876856441172717281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1775
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a23a8b9f117ada0800000000000000
+      internalID: -5933754219795109276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1775
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594d78e4e6df19e0800000000000000
+      internalID: -1648362659952899753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1617
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ff6d26c8031d30800000000000000
+      internalID: 4400870908129965373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1614
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245ba13efaf66b60800000000000000
+      internalID: 7739148979344725039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1617
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096e1a46f953022b0800000000000000
+      internalID: -5611426176999233904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1614
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a389909f9b5f70800000000000000
+      internalID: 9177104109097165321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1613
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b53a59507fe7b0800000000000000
+      internalID: -5192808316267022830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1617
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2dbfffab393060800000000000000
+      internalID: 6933638728409492713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1614
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efcd960f0729f420800000000000000
+      internalID: 2664203600055357414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1613
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805349ee5adba2f10800000000000000
+      internalID: 2245815884567557384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1617
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a56d2c821201310800000000000000
+      internalID: 1373634345299237378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1617
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b03ea8518cdcd6f0800000000000000
+      internalID: -658408997406232396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1613
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9324cef7f09b1cc0800000000000000
+      internalID: -3739235670795476068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1613
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf4411728263260800000000000000
+      internalID: 7076888012717882143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1460
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a660d1f9f85a4f0800000000000000
+      internalID: -818089843748345227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1456
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e1c5a132594b70800000000000000
+      internalID: 8883722113152836816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1460
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1bd6afd0ccb8490800000000000000
+      internalID: -7742870773925301794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1460
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5bcaaf16eb0730800000000000000
+      internalID: 3966516920513682890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1456
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ba158b482bd030800000000000000
+      internalID: 3520451838540952105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1458
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e93dd3380713c20800000000000000
+      internalID: 3184450120507956893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1460
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798213c38388a9090800000000000000
+      internalID: -8026953610725087081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1456
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70a80e68968c5860800000000000000
+      internalID: 7520033467041095806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1456
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca68640f8f9a7c860800000000000000
+      internalID: 7550190186958063276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1460
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f61c117c5c0040800000000000000
+      internalID: 4615165359020242741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1456
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edbb1b3111125290800000000000000
+      internalID: -7903235630378009113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1460
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d1fd8762b55c70800000000000000
+      internalID: 8959263191556281009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1298
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696969c03b4c8d910800000000000000
+      internalID: 1862454719207085718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1302
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33661550c026d080800000000000000
+      internalID: -9163100381405355206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1298
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815dffedb493da360800000000000000
+      internalID: 7182459978752447768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1298
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5531892b2ce70650800000000000000
+      internalID: 6199183082222859610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1302
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb6cd4996bd7b050800000000000000
+      internalID: 5816358690287807470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1298
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e0f32d16fe5950800000000000000
+      internalID: 6439855122203862103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1298
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af615a35293f6bd00800000000000000
+      internalID: 988244978048505594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1302
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d567bacd578c8a5b0800000000000000
+      internalID: -5356811348218251683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1298
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122608b0255d3a830800000000000000
+      internalID: 4081340235684799009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1298
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442a6d44530b2170800000000000000
+      internalID: 8154615210895352903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1298
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f68c6132a440f90800000000000000
+      internalID: -6988379207205621874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1298
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065e970d425da410800000000000000
+      internalID: 1489937542523278858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1137
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45bf96732bee3120800000000000000
+      internalID: 2395610589354243405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1141
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb228451cb0e18460800000000000000
+      internalID: 7242316774203990715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1137
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de5c47849f6b4d0800000000000000
+      internalID: -3119031602315399823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1137
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a73ff9ca7c83bd0800000000000000
+      internalID: -2650148836475700650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1141
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab651d84203757a80800000000000000
+      internalID: -8469737070551542086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1137
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4988a6ecf0ef50800000000000000
+      internalID: 6908799895986588832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_54
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1137
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9300ef07204c85700800000000000000
+      internalID: 529388470980706361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_55
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1137
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad6bad757b864dd0800000000000000
+      internalID: -2502159206221910616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1137
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4149ba53a00fbfba0800000000000000
+      internalID: -6053981347428723692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1137
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af7f763fae65260800000000000000
+      internalID: 7086109394856311430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1141
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb60dae506cfcd30800000000000000
+      internalID: 4453996285209373616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1137
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dead31538309fcc0800000000000000
+      internalID: -3676903758232703279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 980
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e8d599954b7e90800000000000000
+      internalID: -7026946267635194603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 980
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d63cad0ef9e1900800000000000000
+      internalID: 657138383734402434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 980
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2963fde9e9d2640800000000000000
+      internalID: 5056872361793852115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 980
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859088ef6a0076f60800000000000000
+      internalID: 8027385578046097752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 980
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a67937c23e83ba0800000000000000
+      internalID: -6108883114470708702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 980
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb189b341702fd920800000000000000
+      internalID: 3017165946201145791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 980
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200c8e00a6aeec80800000000000000
+      internalID: -8291506657573470170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 980
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd35d9ad98766110800000000000000
+      internalID: 1253822164823784924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 980
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f544337d0a489dc0800000000000000
+      internalID: -3632071677846469130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 980
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253be58e7d886fa0800000000000000
+      internalID: -5807236144942074581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 980
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975111848227e8540800000000000000
+      internalID: 5012068952643278201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 980
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6be3078be5363e0800000000000000
+      internalID: -2061700058155403609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1144fbe26561da70800000000000000
+      internalID: 8849966218299588895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 819
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57957116560e3ff0800000000000000
+      internalID: -54599178751994019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c63e001c34a2750800000000000000
+      internalID: 6280907126544231574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1520d48a3fbb64e0800000000000000
+      internalID: -1987284552496700131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 822
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c504f2de1974212e0800000000000000
+      internalID: -2156582579481919396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df078ff4beb642120800000000000000
+      internalID: 2388152360816374013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f2eb1cd8f1e9c80800000000000000
+      internalID: -8314173168378040511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 818
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227623ee49ba75200800000000000000
+      internalID: 168792167189473058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_80
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a957ec92deb575e90800000000000000
+      internalID: -7037054818576337510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_81
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 822
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead7ffae64a164d0800000000000000
+      internalID: -3143050269622281492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_82
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 822
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b3956e671d7ca00800000000000000
+      internalID: 776819769345653535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 822
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d0110f6b7d61030800000000000000
+      internalID: 3465194144019844501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 661
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adba2b022982e960800000000000000
+      internalID: 7629811498028285352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_85
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 665
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b736a3f4dea5e0800000000000000
+      internalID: -1896344250145591241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 661
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c207e0ce0183c0800000000000000
+      internalID: -4359186742645702452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_87
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 662
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7639b196c7dd9aa50800000000000000
+      internalID: 6532996260886713191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_88
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 665
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69877bb4f894b3630800000000000000
+      internalID: 3907797981473503382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_89
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 661
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2f9e6fedf02690800000000000000
+      internalID: -7628818563970683274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_90
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 661
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065d839ecfc088d0800000000000000
+      internalID: -2846046478352427515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_91
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 665
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41dc8007777e28e0800000000000000
+      internalID: -1716303054987538099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_92
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 665
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c299d6f8cd398f70800000000000000
+      internalID: 9189944447970415301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_93
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 661
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ea5429e6633750800000000000000
+      internalID: 6283479056635322705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_94
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 665
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e63267c43393a080800000000000000
+      internalID: -9177329760758253847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_95
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 661
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b9167522afd700800000000000000
+      internalID: 567350359850856683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 515
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3ed57f8597a7bf0800000000000000
+      internalID: -325814600016731187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_97
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 518
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38abbac6bb3f0c0800000000000000
+      internalID: -4543081523674709052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 515
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7dba5a5faf0f6d0800000000000000
+      internalID: -2958589022228981825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_99
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 515
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e42417e5a60070800000000000000
+      internalID: 8072321794002182335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_100
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 518
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d951326623139e2c0800000000000000
+      internalID: -4401933068246248035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_101
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 515
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1625424fedb471b20800000000000000
+      internalID: 3105033889046090337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_102
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 515
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e4ac60b1848f2a0800000000000000
+      internalID: -6703528764425744816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 515
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba19c80356b240e0800000000000000
+      internalID: -2287065193004852550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_104
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 515
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371a23430e84dfb50800000000000000
+      internalID: 6628534354344845683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_105
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 515
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7da474287c45d30800000000000000
+      internalID: 4419376496713062335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_106
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 518
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6acb282f87768960800000000000000
+      internalID: 7603896477599648364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_107
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 515
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420380e3d40b55b20800000000000000
+      internalID: 3122595762451001380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_108
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 357
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f9506af782d970800000000000000
+      internalID: 8778228133126601050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_109
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 357
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0711531283ee6120800000000000000
+      internalID: 2409112998499129098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_110
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 357
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ef06cd3290e3c0800000000000000
+      internalID: -4332302047516826819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_111
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 357
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46bf8c6a66dbf440800000000000000
+      internalID: 4970802366309709389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_112
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 357
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d00f8bcc59a6c0800000000000000
+      internalID: -4131669153788406226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_113
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 357
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd94a14062a3e5210800000000000000
+      internalID: 1323559275445504479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_114
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 357
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deff9cbf93803900800000000000000
+      internalID: 662173867311103699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_115
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 357
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd70dbef0d440900800000000000000
+      internalID: 649728977024351735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_116
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 357
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34c79ed27224cea0800000000000000
+      internalID: -5853515738918697922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 357
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35123b4a0e8ab8520800000000000000
+      internalID: 2705441683955458387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_118
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 357
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bcafbe11aa03ee0800000000000000
+      internalID: -1283338899850343522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_119
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 357
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7a921a44cb338d0800000000000000
+      internalID: -2867741534757214218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_120
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 200
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958e785c3e771f040800000000000000
+      internalID: 4679653307969955929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_121
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 200
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4beb47a9a89abeb0800000000000000
+      internalID: -4703279006411396274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_122
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 200
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa011a00de177f010800000000000000
+      internalID: 1222571086586122415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_123
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 200
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21575f6b199f80a0800000000000000
+      internalID: -6877109762860297938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_124
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 200
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182de4f7dca0d9970800000000000000
+      internalID: 8763172327653298817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_125
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 200
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cee7df8cd1215e90800000000000000
+      internalID: -7038807511413559616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_126
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 200
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b7909dc69ae910800000000000000
+      internalID: 1867470805136815586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_127
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 200
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2761bfdeec94af6b0800000000000000
+      internalID: -5261812061524257166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_128
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 200
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16b5532315f4c550800000000000000
+      internalID: 6180334051205166619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_129
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 200
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1564ac86d51dca0800000000000000
+      internalID: -5993906924401831463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_130
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 200
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7558869e85003b5f0800000000000000
+      internalID: -742249131712936617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_131
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 200
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a47d97133095100800000000000000
+      internalID: 97112377997609597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_132
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 38
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bc446f22eacab80800000000000000
+      internalID: -8382133341259511028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_133
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 42
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93572bad9c74a6890800000000000000
+      internalID: -7464074500130048711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_134
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 38
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a67c66e585ce50800000000000000
+      internalID: 6829011634685912445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_135
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 42
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723d9c3f1a1a09e0800000000000000
+      internalID: -1654481191641992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_136
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 42
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49cffa1c4c13bb80800000000000000
+      internalID: -8380323368410298037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_137
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 42
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da0b3f3f93485a0800000000000000
+      internalID: -6520022640597357162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_138
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 42
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a34f70c8567ea0800000000000000
+      internalID: -5875411080066129234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_139
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 42
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b09f5af624efe0800000000000000
+      internalID: -1160759947167747503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_140
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 38
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3637d05329b6e90800000000000000
+      internalID: -7031365636652309523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_141
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 42
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361071911d6cb030800000000000000
+      internalID: 3511801731664057911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_142
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 42
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b79faa56c7b0e0800000000000000
+      internalID: -2254114995680333084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaylyn-among-us-functional-sprites_143
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 42
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ee0033ab4ba7890800000000000000
+      internalID: -7459451120973189570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kaylyn-among-us-functional-sprites_0: -1346336769856168266
+      kaylyn-among-us-functional-sprites_1: -3489507441651256537
+      kaylyn-among-us-functional-sprites_10: -5933754219795109276
+      kaylyn-among-us-functional-sprites_100: -4401933068246248035
+      kaylyn-among-us-functional-sprites_101: 3105033889046090337
+      kaylyn-among-us-functional-sprites_102: -6703528764425744816
+      kaylyn-among-us-functional-sprites_103: -2287065193004852550
+      kaylyn-among-us-functional-sprites_104: 6628534354344845683
+      kaylyn-among-us-functional-sprites_105: 4419376496713062335
+      kaylyn-among-us-functional-sprites_106: 7603896477599648364
+      kaylyn-among-us-functional-sprites_107: 3122595762451001380
+      kaylyn-among-us-functional-sprites_108: 8778228133126601050
+      kaylyn-among-us-functional-sprites_109: 2409112998499129098
+      kaylyn-among-us-functional-sprites_11: -1648362659952899753
+      kaylyn-among-us-functional-sprites_110: -4332302047516826819
+      kaylyn-among-us-functional-sprites_111: 4970802366309709389
+      kaylyn-among-us-functional-sprites_112: -4131669153788406226
+      kaylyn-among-us-functional-sprites_113: 1323559275445504479
+      kaylyn-among-us-functional-sprites_114: 662173867311103699
+      kaylyn-among-us-functional-sprites_115: 649728977024351735
+      kaylyn-among-us-functional-sprites_116: -5853515738918697922
+      kaylyn-among-us-functional-sprites_117: 2705441683955458387
+      kaylyn-among-us-functional-sprites_118: -1283338899850343522
+      kaylyn-among-us-functional-sprites_119: -2867741534757214218
+      kaylyn-among-us-functional-sprites_12: 4400870908129965373
+      kaylyn-among-us-functional-sprites_120: 4679653307969955929
+      kaylyn-among-us-functional-sprites_121: -4703279006411396274
+      kaylyn-among-us-functional-sprites_122: 1222571086586122415
+      kaylyn-among-us-functional-sprites_123: -6877109762860297938
+      kaylyn-among-us-functional-sprites_124: 8763172327653298817
+      kaylyn-among-us-functional-sprites_125: -7038807511413559616
+      kaylyn-among-us-functional-sprites_126: 1867470805136815586
+      kaylyn-among-us-functional-sprites_127: -5261812061524257166
+      kaylyn-among-us-functional-sprites_128: 6180334051205166619
+      kaylyn-among-us-functional-sprites_129: -5993906924401831463
+      kaylyn-among-us-functional-sprites_13: 7739148979344725039
+      kaylyn-among-us-functional-sprites_130: -742249131712936617
+      kaylyn-among-us-functional-sprites_131: 97112377997609597
+      kaylyn-among-us-functional-sprites_132: -8382133341259511028
+      kaylyn-among-us-functional-sprites_133: -7464074500130048711
+      kaylyn-among-us-functional-sprites_134: 6829011634685912445
+      kaylyn-among-us-functional-sprites_135: -1654481191641992586
+      kaylyn-among-us-functional-sprites_136: -8380323368410298037
+      kaylyn-among-us-functional-sprites_137: -6520022640597357162
+      kaylyn-among-us-functional-sprites_138: -5875411080066129234
+      kaylyn-among-us-functional-sprites_139: -1160759947167747503
+      kaylyn-among-us-functional-sprites_14: -5611426176999233904
+      kaylyn-among-us-functional-sprites_140: -7031365636652309523
+      kaylyn-among-us-functional-sprites_141: 3511801731664057911
+      kaylyn-among-us-functional-sprites_142: -2254114995680333084
+      kaylyn-among-us-functional-sprites_143: -7459451120973189570
+      kaylyn-among-us-functional-sprites_15: 9177104109097165321
+      kaylyn-among-us-functional-sprites_16: -5192808316267022830
+      kaylyn-among-us-functional-sprites_17: 6933638728409492713
+      kaylyn-among-us-functional-sprites_18: 2664203600055357414
+      kaylyn-among-us-functional-sprites_19: 2245815884567557384
+      kaylyn-among-us-functional-sprites_2: 4014328594602380921
+      kaylyn-among-us-functional-sprites_20: 1373634345299237378
+      kaylyn-among-us-functional-sprites_21: -658408997406232396
+      kaylyn-among-us-functional-sprites_22: -3739235670795476068
+      kaylyn-among-us-functional-sprites_23: 7076888012717882143
+      kaylyn-among-us-functional-sprites_24: -818089843748345227
+      kaylyn-among-us-functional-sprites_25: 8883722113152836816
+      kaylyn-among-us-functional-sprites_26: -7742870773925301794
+      kaylyn-among-us-functional-sprites_27: 3966516920513682890
+      kaylyn-among-us-functional-sprites_28: 3520451838540952105
+      kaylyn-among-us-functional-sprites_29: 3184450120507956893
+      kaylyn-among-us-functional-sprites_3: 1799392427376922198
+      kaylyn-among-us-functional-sprites_30: -8026953610725087081
+      kaylyn-among-us-functional-sprites_31: 7520033467041095806
+      kaylyn-among-us-functional-sprites_32: 7550190186958063276
+      kaylyn-among-us-functional-sprites_33: 4615165359020242741
+      kaylyn-among-us-functional-sprites_34: -7903235630378009113
+      kaylyn-among-us-functional-sprites_35: 8959263191556281009
+      kaylyn-among-us-functional-sprites_36: 1862454719207085718
+      kaylyn-among-us-functional-sprites_37: -9163100381405355206
+      kaylyn-among-us-functional-sprites_38: 7182459978752447768
+      kaylyn-among-us-functional-sprites_39: 6199183082222859610
+      kaylyn-among-us-functional-sprites_4: 50827865907246017
+      kaylyn-among-us-functional-sprites_40: 5816358690287807470
+      kaylyn-among-us-functional-sprites_41: 6439855122203862103
+      kaylyn-among-us-functional-sprites_42: 988244978048505594
+      kaylyn-among-us-functional-sprites_43: -5356811348218251683
+      kaylyn-among-us-functional-sprites_44: 4081340235684799009
+      kaylyn-among-us-functional-sprites_45: 8154615210895352903
+      kaylyn-among-us-functional-sprites_46: -6988379207205621874
+      kaylyn-among-us-functional-sprites_47: 1489937542523278858
+      kaylyn-among-us-functional-sprites_48: 2395610589354243405
+      kaylyn-among-us-functional-sprites_49: 7242316774203990715
+      kaylyn-among-us-functional-sprites_5: 274354541353646117
+      kaylyn-among-us-functional-sprites_50: -3119031602315399823
+      kaylyn-among-us-functional-sprites_51: -2650148836475700650
+      kaylyn-among-us-functional-sprites_52: -8469737070551542086
+      kaylyn-among-us-functional-sprites_53: 6908799895986588832
+      kaylyn-among-us-functional-sprites_54: 529388470980706361
+      kaylyn-among-us-functional-sprites_55: -2502159206221910616
+      kaylyn-among-us-functional-sprites_56: -6053981347428723692
+      kaylyn-among-us-functional-sprites_57: 7086109394856311430
+      kaylyn-among-us-functional-sprites_58: 4453996285209373616
+      kaylyn-among-us-functional-sprites_59: -3676903758232703279
+      kaylyn-among-us-functional-sprites_6: 1135726286947275591
+      kaylyn-among-us-functional-sprites_60: -7026946267635194603
+      kaylyn-among-us-functional-sprites_61: 657138383734402434
+      kaylyn-among-us-functional-sprites_62: 5056872361793852115
+      kaylyn-among-us-functional-sprites_63: 8027385578046097752
+      kaylyn-among-us-functional-sprites_64: -6108883114470708702
+      kaylyn-among-us-functional-sprites_65: 3017165946201145791
+      kaylyn-among-us-functional-sprites_66: -8291506657573470170
+      kaylyn-among-us-functional-sprites_67: 1253822164823784924
+      kaylyn-among-us-functional-sprites_68: -3632071677846469130
+      kaylyn-among-us-functional-sprites_69: -5807236144942074581
+      kaylyn-among-us-functional-sprites_7: -7450660529753966354
+      kaylyn-among-us-functional-sprites_70: 5012068952643278201
+      kaylyn-among-us-functional-sprites_71: -2061700058155403609
+      kaylyn-among-us-functional-sprites_72: 8849966218299588895
+      kaylyn-among-us-functional-sprites_73: -54599178751994019
+      kaylyn-among-us-functional-sprites_74: 6280907126544231574
+      kaylyn-among-us-functional-sprites_75: -1987284552496700131
+      kaylyn-among-us-functional-sprites_76: -2156582579481919396
+      kaylyn-among-us-functional-sprites_77: 2388152360816374013
+      kaylyn-among-us-functional-sprites_78: -8314173168378040511
+      kaylyn-among-us-functional-sprites_79: 168792167189473058
+      kaylyn-among-us-functional-sprites_8: 5830655997882052172
+      kaylyn-among-us-functional-sprites_80: -7037054818576337510
+      kaylyn-among-us-functional-sprites_81: -3143050269622281492
+      kaylyn-among-us-functional-sprites_82: 776819769345653535
+      kaylyn-among-us-functional-sprites_83: 3465194144019844501
+      kaylyn-among-us-functional-sprites_84: 7629811498028285352
+      kaylyn-among-us-functional-sprites_85: -1896344250145591241
+      kaylyn-among-us-functional-sprites_86: -4359186742645702452
+      kaylyn-among-us-functional-sprites_87: 6532996260886713191
+      kaylyn-among-us-functional-sprites_88: 3907797981473503382
+      kaylyn-among-us-functional-sprites_89: -7628818563970683274
+      kaylyn-among-us-functional-sprites_9: 1876856441172717281
+      kaylyn-among-us-functional-sprites_90: -2846046478352427515
+      kaylyn-among-us-functional-sprites_91: -1716303054987538099
+      kaylyn-among-us-functional-sprites_92: 9189944447970415301
+      kaylyn-among-us-functional-sprites_93: 6283479056635322705
+      kaylyn-among-us-functional-sprites_94: -9177329760758253847
+      kaylyn-among-us-functional-sprites_95: 567350359850856683
+      kaylyn-among-us-functional-sprites_96: -325814600016731187
+      kaylyn-among-us-functional-sprites_97: -4543081523674709052
+      kaylyn-among-us-functional-sprites_98: -2958589022228981825
+      kaylyn-among-us-functional-sprites_99: 8072321794002182335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
